@@ -1,4 +1,4 @@
 # figma
-
-# npm install
+# för att köra
+## npm install
 ## npm run dev
